@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Pacifist_SMP",
+    "username": "cakma_muhvef",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Paci_SMP.aternos.me",
-    "port": 51463,
+    "ip": "NoSpare_SMP.aternos.me",
+    "port": 41925,
     "version": "1.21.11"
   },
   "position": {
