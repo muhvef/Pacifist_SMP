@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoSpare_SMP.aternos.me",
-    "port": 41925,
+    "ip": "Paci_SMP.aternos.me:51463",
+    "port": 51463,
     "version": "1.21.11"
   },
   "position": {
