@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "paci_smp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "Paci_SMP.aternos.me:51463",
+    "port": 51463,
     "version": "",
     "try-creative": false
   },
